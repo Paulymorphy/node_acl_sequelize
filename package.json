@@ -44,6 +44,6 @@
   },
   "peerDependencies": {
     "sequelize": ">=3.0.0",
-    "acl": "^0.4.11"
+    "acl2": "^3.0.0"
   }
 }
